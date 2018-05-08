@@ -16,5 +16,5 @@ because the way I identify whether a click is in the node is a bit not accurate 
 Hence, I'll need to improve this. 
 - If you click ArrayList before Graph and Array tabs, it shows nothing.
 However, if you click Graph, Array, and then ArrayList tabs, everything is fine.
-This is a bug that haven't been able to solve yet. 
+This is a bug that I haven't been able to solve yet. 
 
